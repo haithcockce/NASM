@@ -9,3 +9,5 @@ Chapter 20, Appendix E
 - __DO NOT__ diagnose and/or treat areas of pain or disease and __do__ refer clients when appropriate
 - Commercial Fitness Facilities
   - Rely on revenue groth and member retention for survival
+  - Personal Training and fitness services are sometimes referred to as "profit centers"
+  - Base revenue though is memberships
