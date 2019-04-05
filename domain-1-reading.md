@@ -30,6 +30,11 @@ Chapters 2-5, 17, 18
 
 - _CNS_ central nervous system made of brain and spinal cord, _PNS_ peripheral nervous system
   - PNS provides pathways from CNS to affector sites via sensory and motor neurons
-  - PNS is made of _somatic_ nervous system (for voluntary movement like skeletal muscles) and
+  - PNS' motor neurons is made of _somatic_ nervous system (for voluntary movement like skeletal muscles) and
     _autonomic_ nervous system (for involuntary movement like heart pulse/digestion/enocrine glands)
-    - Autonomic divided further into _sympathetic_ and _parasympathetic_ systems
+    - Autonomic divided further into _sympathetic_ (activity increase) and _parasympathetic_ (activity decrease) systems
+- _Mechanorecpetors_ respond to mechanical pressure within tissue and transmit over sensory nerves, so like 
+  touch/pressure/stretching/motion/etc. Include Joint receptors/golgi tendons/muscle spindles
+  - _Muscle Spindles_ run parallel to muscles and detect muscle stretching and forces contraction in overstretching
+  - _Golgi Tendon Organs_ located at insertion points, detect muscle tension and stimulate muscle relaxation
+  - _Joint Recptors_ located in and around joint capsule and detect motion within joints
