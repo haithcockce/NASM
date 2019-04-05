@@ -15,4 +15,4 @@ Chapters 2-5, 17, 18
 - Functions include _sensory_ (input/stimuli), _integrative_ (interpret input), and _motor_ (output/movement)
 - _Proprioception_ ability to sense relative positions of body parts (allows us to know what kind of surface you run on)
 
-###### Anatomy of the Nervous System
+##### Anatomy of the Nervous System
