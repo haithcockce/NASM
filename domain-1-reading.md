@@ -16,3 +16,6 @@ Chapters 2-5, 17, 18
 - _Proprioception_ ability to sense relative positions of body parts (allows us to know what kind of surface you run on)
 
 ##### Anatomy of the Nervous System
+
+- _Neuron_ allows a body to communicate with the world and itself via electrical and chemical signals. Large
+  amounts of these create nerves
