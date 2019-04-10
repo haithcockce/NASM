@@ -82,3 +82,11 @@ Chapter 6, Appendix E
   circumference measures. Measure with biceps, triceps, suscapular, iliac crest
   on right side of body
 - BMI 25-30 is overweight
+
+## Assessments
+
+#### Cardiorespiratory Assessments
+
+- Need to measure maximal oxygen uptake (VO2_max) but need to approximate it
+  with approximations thus cardiorespiratory assessments
+- _YMCA 3-Minute Step Test_
