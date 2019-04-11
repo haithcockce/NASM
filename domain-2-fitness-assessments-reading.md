@@ -91,6 +91,7 @@ Chapter 6, Appendix E
   with approximations thus cardiorespiratory assessments
 - _YMCA 3-Minute Step Test_ climb stairs for 3 minutes, then take pulse
   - Very poor - below average -> Zone 1, average - good -> zone 2, excellent ->3
+  - Used for oxygen intake measurements
 - _Rockport Walk Test_ Record weight, walk a mile quickly, then take HR, then
   do some crazy fucking math for a vo2 score.
   - Poor - fair -> zone 1, average - good -> 2, very good -> 3
