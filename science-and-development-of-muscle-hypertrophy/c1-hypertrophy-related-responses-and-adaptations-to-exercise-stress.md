@@ -37,3 +37,16 @@
     specific muscles have variability in composition. Likewise, differences
     in type of stress (strength training vs endurance training) can change
     ratios. 
+- Motor Units
+  - _Motor Neuron_ nerve cells that actuate skeletal muscles
+  - _Motor Unit_ Single motor neuron and the fibers it innervates collectively
+
+#### Responses and Adaptations
+
+- Early improvements to resistance training are from neural improvements (rate
+  coding, synchronization, recruitment, etc)
+- Neural Drive: over time, more muscles are activated thus increased recruitment
+- Muscle activation: combination of recruitment (number of muscle fibers) and
+  rate coding (frequency of stimulation). 
+  - **Size Principle** capacity to produce force is related to size of motor
+    unit. The larger the unit, the more force it produces
