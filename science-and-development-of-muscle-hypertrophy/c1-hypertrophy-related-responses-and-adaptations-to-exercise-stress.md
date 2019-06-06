@@ -50,3 +50,50 @@
   rate coding (frequency of stimulation). 
   - **Size Principle** capacity to produce force is related to size of motor
     unit. The larger the unit, the more force it produces
+- Muscle fiber recruitment is essential for hypertrophy but recruitment does 
+  not mean hypertrophic response. 
+- Motor Unit Synchronization
+  - One or more motor units occurs simultaneously
+  - Resistance training does not seem to increase synchronization but it can
+    be done with other training (musicians have high synchronization rates)
+- Antagonist Coactivation 
+  - Antagonist coactivation goes down with resistance training to allow greater
+    force production. 
+  - This is seen in resistance training as well
+- Doublets
+  - Two spikes in activation 5ms apart during contraction 
+  - Increases during resistance training 
+- Protein Balance 
+  - Proteins are broken down and reconstructed constantly in a state of 
+    equilibrium where breakdown happens at the same rate of resconstruction. 
+  - Breakdown outpaces rebuilding during fasting and rebuild outpaces breakdown
+    after eating
+  - Protein synthesis is complicated (p. 27-29), however protein translation 
+    initiation is the rate-limiting step in synthesis
+  - During resistance training, synthesis is suppressed and breakdown 
+    (_proteolysis_) is heightened. Then balance is negative. 
+  - ~48 hours after workout is when protein synthesis is elevated considerably
+- Hypertrophy
+  - Increase in size of muscle tissue
+  - Gains occurs from adding sarcomeres in parallel (but can also happen in
+    series)
+    - **REMINDER** Sarcomeres are the basic building blocks of myofibrils, 
+      which are the basic rod-like units of muscle fibers, bundles of which
+      make fasciculi, and bundles of those make muscles 
+  - Mechanical overload causes all this to begin
+  - When sarcomeres are added in series, then muscle becomes longer due to an 
+    adaptation in length 
+  - Eccentric predominant actions lengthen muscles (add sarcomeres in series)
+    whereas concentric predominant actions shortens muscles (removes in series)
+  - Hypertrophy can occur in series or in parallel, but observable gains are 
+    seen largely with sarcomere additions in series. 
+    - New adaptations are not seen much after 5 weeks of resistance training
+      so you need to alter the style periodically 
+- Sarcoplasmic Hypertrophy
+  - Gains can occur from increase in non-muscle fiber stuff, like collagen, 
+    organelles, and the fluids therein. For example, one study showed a
+    drastic increase in water within muscles after 16 weeks of training
+
+#### Endocrine, Paracrine, and Autocrine Systems
+
+- 
