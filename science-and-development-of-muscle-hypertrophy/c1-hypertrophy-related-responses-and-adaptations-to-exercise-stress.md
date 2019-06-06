@@ -96,4 +96,19 @@
 
 #### Endocrine, Paracrine, and Autocrine Systems
 
-- 
+- In general, muscle protein balance (buildup and breakdown) is influenced by
+  neuroendocrine system. Some of the hormones are secreted locally in a 
+  paracrine (between cells) or autocrine (within the cell) fashion
+- Responses and Adaptations of Hormones 
+  - Hormones are secreted by glands, released into the blood, and transported
+    to the target tissues to bind to shit
+  - _Testosterone_ Increases protein synthesis and decreases proteolysis, helps
+    release Growth Hormone and Insulin-like Growth Factor 1
+  - _Insulin-like Growth Factor 1_ Helps donation of myofibril nuclei 
+    (myonuclei) to muscle fibers
+  - _Growth Hormone_ Helps produce Insulin-like Growth Factor 1
+  - _Insulin_ Causes a reduction in proteolysis
+  - **Hormone Hypothesis** Post workout hormonal elevations are central to 
+    long-term increases in muscle size
+  - Endocrine system is involved in muscle mass regulation, but we don't know
+    the precise nature of how it is. 
